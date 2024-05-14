@@ -1,0 +1,60 @@
+.pizza-card{
+  width: 400px;
+  border: 1px solid gray;
+}
+
+.hit-badge {
+    position: absolute;
+    top: 10px;
+    background-color: orange;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+  }
+
+h2{
+  margin-left: 20px;
+}
+
+p{
+  margin-left: 20px;
+  width: 400px;
+  color: gray;
+}
+
+.select-size{
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.price{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.quantity{
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 180px;
+}
+
+.quantity span{
+  border: 1px solid black;
+  width: 200px;
+  text-align: center;
+}
+
+
+.order{
+  margin-left: 20px;
+  background-color: #00cc00;
+}
+
+select{
+  width: 100px;
+  height: 40px;
+}
